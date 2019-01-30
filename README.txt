@@ -1,3 +1,5 @@
+O arquivo woolamalooProgram.py contém a minha solução para o problema proposto.
+
 Para compilar foi usado no terminal linux:
 	python woolamalooProgram.py > teste.txt
 
