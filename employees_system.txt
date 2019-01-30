@@ -1,0 +1,5 @@
+id,name,admission_date,demission_date,department,position
+1234,Aldo Zanchertine,13/11/1991,,Mathematics,Professor
+4321,Rufus Parket,11/05/1996,14/01/2019,Transportation,Driver
+6789,Mateus Nada,30/01/2019,,Computer Science,Professor
+9876,Maria Nenhum,01/11/2018,,Physics,Coordinator

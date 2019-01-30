@@ -1,0 +1,4 @@
+cn,employeeNumber,mail,uid,department,position
+Aldo Zanchertine,1234,aldo.zanchertine@woolamaloo.mon.ty.py,aldo.zanchertine,Philosophy,Professor
+Rufus Parket,4321,rufus.parket@woolamaloo.mon.ty.py,rufus.parket,Transportation,Driver
+Maria Nenhuma,9876,maria.nenhuma@woolamaloo.mon.ty.py,maria.nenhuma,Physics,Professor

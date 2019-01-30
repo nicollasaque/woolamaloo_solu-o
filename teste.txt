@@ -1,0 +1,10 @@
+Woolamaloo Synchronization Report
+---------------------------------
+
+ID   Name                Status
+---- ------------------- ------------------------------------------------------------
+
+1234 Aldo Zanchertine    Changed department, was Philosophy, now it is Mathematics.
+4321 Rufus Parket        Worked with the Woolamaloo from 11/05/1996 until 14/01/2019.
+6789 Mateus Nada         New employee of Woolamaloo since 30/01/2019.
+9876 Maria Nenhum        Changed position, was Professor, now it is Coordinator.
